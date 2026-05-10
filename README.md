@@ -14,6 +14,7 @@
 
 | 日期 | 文章 | 来源 |
 |------|------|------|
+| 2026-05-09 | [SCHUMPETER: Warren or Masa](./articles/2026/Warren_or_Masa.md) | The Economist |
 | 2026-04-30 | [Still in La-La Land](./articles/2026/Still_in_La-La_Land.md) | The Economist |
 | 2026-04-03 | [Inside Trump's Search for a Way Out of the Iran War](./articles/2026/Trump_Iran_War_TIME_Analysis.md) | TIME |
 | 2026-04-01 | [How China hopes to win from the war](./articles/2026/How_China_Hopes_to_Win_from_the_War.md) | The Economist |
