@@ -14,6 +14,7 @@
 
 | 日期 | 文章 | 来源 |
 |------|------|------|
+| 2026-05-09 | [CHAGUAN: Fading and Furious](./articles/2026/Chaguan_Fading_and_Furious.md) | The Economist |
 | 2026-05-09 | [SCHUMPETER: Warren or Masa](./articles/2026/Warren_or_Masa.md) | The Economist |
 | 2026-04-30 | [Still in La-La Land](./articles/2026/Still_in_La-La_Land.md) | The Economist |
 | 2026-04-03 | [Inside Trump's Search for a Way Out of the Iran War](./articles/2026/Trump_Iran_War_TIME_Analysis.md) | TIME |
