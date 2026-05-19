@@ -14,6 +14,7 @@
 
 | 日期 | 文章 | 来源 |
 |------|------|------|
+| 2026-05-16 | [Flush with Cash: Japanese Companies Minting Money from AI](./articles/2026/Flush_with_Cash.md) | The Economist |
 | 2026-05-16 | [SCHUMPETER: Big Tech's Income Gap](./articles/2026/Big_Tech_Income_Gap.md) | The Economist |
 | 2026-05-09 | [Which Navy's Better, Down Where It's Wetter?](./articles/2026/Which_Navy_Better_Down_Where_Wetter.md) | The Economist |
 | 2026-05-09 | [CHAGUAN: Fading and Furious](./articles/2026/Chaguan_Fading_and_Furious.md) | The Economist |
